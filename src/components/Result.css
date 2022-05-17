@@ -1,0 +1,11 @@
+.result {
+    border: 1px solid gainsboro;
+    padding: 1em;
+    margin: 2em;
+    box-shadow: 1px 1px 3px gray;
+    width: 16em;
+}
+
+.result__comment {
+    border-top: 1px solid gainsboro;
+}
